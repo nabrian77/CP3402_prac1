@@ -1,0 +1,25 @@
+#header {height:158px; background-image:url('images/bakery.jpg');}
+#main {height:500px;}
+#footer {height: 30px; text-align:center; background-color: aliceblue; color:black;}
+.main_pic{width=300px; height: 400px; float: left;}
+#body {background-color:lightpink;}
+.customercomments {background-color:white; display: inline-block;}
+.petite {text-align: center; display: inline-block; background-color: white; color:black;}
+.subtitle {text-align: center; display: inline-block; background-color: white; color: black;}
+li {display: inline; }
+.navbar {display: flex; flex-direction: row; width: 100% margin:0; padding: 0; background-color: darkslategrey; list-style-type: none;}
+.navitem { padding: 15px;}
+.navitem a{text-align: center; text-decoration: none; color: white;}
+img {height:300px; width:400px;}
+.special_img1 {height:150px; width:200px;}
+.menubar {display: flex; flex-direction: row; width: 100% margin:0; padding: 0; background-color: white; list-style-type: none;}
+.menuitem { padding: 15px;}
+.menuitem a{text-align: center; text-decoration: none; color: black;}
+.div1{float:left; width:33%;}
+.div2{float:left; width:33%;}
+.div3{float:right; width:33%;}
+.contact {text-align: center;}
+.contact_info {text-align: center; background-color: white;}
+
+
+
